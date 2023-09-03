@@ -1,13 +1,11 @@
 import './App.css'
-import DataTable from './components/DataTable'
-import Navbar from './components/Navbar'
+// import DataTable from './Components/DataTable'
+import Dashboard from './components/Dashboard'
 
 function App() {
-
   return (
     <>
-    <Navbar/>
-    <DataTable/>
+    <Dashboard/>
     </>
   )
 }
